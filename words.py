@@ -26,6 +26,10 @@ def fetch_words(url):
     return story_words
 
 
+def my_new_val():
+    return 1
+
+
 def print_items(items):
     """Print items one per line
 
