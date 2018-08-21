@@ -26,6 +26,11 @@ def fetch_words(url):
     return story_words
 
 
+def iterate_over_words():
+    x = 1
+    return x
+
+
 def print_items(items):
     """Print items one per line
 
